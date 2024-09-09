@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.NOTIFICATION_POLICY_ACCESS_SETTINGS" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Admain_croca"
+        tools:targetApi="31">
+        <activity
+            android:name=".dialog_password"
+            android:exported="false" />
+        <activity
+            android:name=".driverInformation"
+            android:exported="false" />
+        <activity
+            android:name=".Inquire_driver"
+            android:exported="false" />
+        <activity
+            android:name=".receive_data"
+            android:exported="false" />
+        <activity
+            android:name=".car_information"
+            android:exported="false" />
+        <activity
+            android:name=".inquiry_street"
+            android:exported="false" />
+        <activity
+            android:name=".inquiry_injured"
+            android:exported="false" />
+        <activity
+            android:name=".inquiry_car"
+            android:exported="false" />
+        <activity
+            android:name=".inquiry_accident"
+            android:exported="false" />
+        <activity
+            android:name=".Inquire"
+            android:exported="false" />
+        <activity
+            android:name=".information"
+            android:exported="false" />
+        <activity
+            android:name=".options"
+            android:exported="false" />
+        <activity
+            android:name=".details"
+            android:exported="false" />
+        <activity
+            android:name=".incident_representative"
+            android:exported="false" />
+        <activity
+            android:name=".login"
+            android:exported="false" />
+        <activity
+            android:name=".opstion2"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

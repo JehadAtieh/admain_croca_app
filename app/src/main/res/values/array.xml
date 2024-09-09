@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="directorate">
+        <item>مديرية الامن العام</item>
+        <item>مديرية شرطة عمان</item>
+        <item>مديرية شرطة الزرقاء</item>
+        <item>مديرية شرطة العقبة</item>
+        <item>مديرية شرطة اربد</item>
+    </string-array>
+    <string-array name="center_security">
+        <item>مركز أمن مرج الحمام</item>
+        <item>مركز امن المقابلين</item>
+        <item>مركز امن القويسمة</item>
+        <item>مركز امن الجويدة</item>
+        <item>مركز امن تلاع العلي</item>
+        <item>مديرية شرطة شمال عمان</item>
+        <item>مركز امن الجويدة</item>
+        <item>مركز امن طارق</item>
+        <item>مركز أمن البيادر</item>
+        <item>مركز امن ابو نصير</item>
+        <item>مركز امن شفا بدران</item>
+        <item>مركز امن الرشيد</item>
+        <item>مركز امن صويلح</item>
+        <item>مركز امن الهاشمي</item>
+        <item>مركز امن النصر</item>
+        <item>مركز أمن العقبة الجنوبي</item>
+        <item>مركز امن ماركا</item>
+        <item>مركز أمن العقبة الشمالي</item>
+        <item>مركز امن المدينة</item>
+    </string-array>
+    <string-array name="governorate">
+        <item>محافظة العاصمة</item>
+        <item>محافظة الزرقاء</item>
+        <item>محافظة السلط</item>
+        <item>محافظة المفرق</item>
+        <item>محافظة الطفيلة</item>
+        <item>محافظة الكرك</item>
+        <item>محافظة معان</item>
+        <item>محافظة العقبة</item>
+        <item>محافظة اربد</item>
+        <item>محافظة جرش</item>
+        <item>محافظة عجلون</item>
+        <item>محافظة مادبا</item>
+    </string-array>
+    <string-array name="major_general">
+        <item>لواء ماركا</item>
+        <item>لواء ماركا</item>
+        <item>لواء ماركا</item>
+        <item>لواء ماركا</item>
+        <item>لواء ماركا</item>
+        <item>لواء ماركا</item>
+        <item>لواء ماركا</item>
+    </string-array>
+    <string-array name="municipality">
+        <item>امانة عمان الكبرى</item>
+        <item>بلدية الرصبفة</item>
+        <item>بلدية الرصبفة</item>
+        <item>بلدية الرصبفة</item>
+        <item>بلدية الرصبفة</item>
+        <item>بلدية الرصبفة</item>
+    </string-array>
+    <string-array name="type">
+        <item>حادث التدهور</item>
+        <item>حادث التصادم</item>
+    </string-array>
+    <string-array name="type_accident">
+        <item>التصادم الجانبي</item>
+        <item>التصادم بزاوية قائمة</item>
+        <item>التصادم وجها لوجه</item>
+        <item>التصادم الخلفي</item>
+        <item>حادث المركبة واحدة</item>
+        <item>التصادم بعدة مركبات</item>
+    </string-array>
+    <string-array name="type_accident_secondary">
+        <item>اول</item>
+        <item>اول</item>
+        <item>اول</item>
+    </string-array>
+    <string-array name="shape">
+        <item>حادث دهس</item>
+        <item>حادث تصادم</item>
+    </string-array>
+
+    <string-array name="direction">
+        <item>مسرب يمين</item>
+        <item>مسرب يسار</item>
+        <item>غير ذلك</item>
+    </string-array>
+    <string-array name="num_direction">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="type_street">
+        <item>صحراوي</item>
+        <item>اسفلتي</item>
+        <item>جبلي</item>
+    </string-array>
+
+    <string-array name="state_street">
+        <item>جاف</item>
+        <item>مبلل</item>
+        <item>زيت</item>
+    </string-array>
+    <string-array name="state_weather">
+        <item>ماطر</item>
+        <item>مثلج</item>
+        <item>مشمس</item>
+    </string-array>
+    <string-array name="light">
+        <item>ليل</item>
+        <item>نهار</item>
+    </string-array>
+
+    <string-array name="type_reports">
+        <item>تقرير مروري</item>
+        <item>تقرير مروري</item>
+    </string-array>
+</resources>
